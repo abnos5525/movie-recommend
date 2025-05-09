@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+@import "tailwindcss";
+
+.ant-empty-description{
+  color: #fff !important
+}
+
+.ant-notification {
+  z-index: 9999 !important;
+}
